@@ -21,8 +21,8 @@ To turn this in, copy/paste the unrendered Markdown text (with the _ and * and s
 
 |Class         |Course No.|Instructor|
 |--------------|----------|----------|
-|Data Science 1|DATA 2401 |K. Shoemaker|
-|Discrete Math |MATH 2304 |R. Davila|
+|*Data Science 1*|**DATA 2401** |K. Shoemaker|
+|*Discrete Math* |**MATH 2304** |R. Davila|
 
 ## ```$ history```
 ---
