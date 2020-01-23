@@ -17,30 +17,18 @@ To turn this in, copy/paste the unrendered Markdown text (with the _ and * and s
 
 ---
 
+## 1. My Quote
 >[We're on a break!](https://www.quora.com/What-do-you-think-about-the-We-were-on-a-break-incident-on-Friends-Do-you-think-that-Rosss-act-was-pardonable-Rachel-overreacted-or-was-Rachel-right-in-completely-blaming-Ross-Who-should-have-been-assigned-the-blame-if-anyone)
 >
 
+## 2. My Classes
 |Class         |Course No.|Instructor|
 |--------------|----------|----------|
 |*Data Science 1*|**DATA 2401** |K. Shoemaker|
 |*Discrete Math* |**MATH 2304** |R. Davila|
 
-## ```$ history```
----
-- usage: ```$ history```
-- prints previous commands used
-
-## pwd
----
-- usage: ```$ pwd```
-- prints the current working directory
-
-## cd
----
-- use like: ```$ cd dirname```
-- navigates into directory named ```dirname```
-
-## rm
+## 3. Commands
+### rm
 ---
 - usage: ```$ rm filename```
 - removes file ```filename```
