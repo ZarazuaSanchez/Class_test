@@ -31,5 +31,5 @@ To turn this in, copy/paste the unrendered Markdown text (with the _ and * and s
 ### rm
 ---
 - usage: ```$ rm filename```
-- removes file ```filename```
+- **permanently deletes** file ```filename```
 - when used with wildcard ```$ rm *``` will delete all files in working directory
