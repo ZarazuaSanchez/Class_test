@@ -26,4 +26,21 @@ To turn this in, copy/paste the unrendered Markdown text (with the _ and * and s
 
 ## ```$ history```
 ---
-usage: ```$ history```
+- usage: ```$ history```
+- prints previous commands used
+
+## pwd
+---
+- usage: ```$ pwd```
+- prints the current working directory
+
+## cd
+---
+- use like: ```$ cd dirname```
+- navigates into directory named ```dirname```
+
+## rm
+---
+- usage: ```$ rm filename```
+- removes file ```filename```
+- when used with wildcard ```$ rm *``` will delete all files in working directory
