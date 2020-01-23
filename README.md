@@ -13,4 +13,13 @@ Working with your classmates, and referencing my slides for today, do the follow
      
 Note that you can click "Preview changes" to see what the final results are going to look like. 
      
-To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such) into the assignment on blackboard.     
+To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such) into the assignment on blackboard.
+
+---
+
+>
+
+|Class|Course No.|Instructor|
+|-----|----------|----------|
+|Data Science 1|DATA 2401|K. Shoemaker|
+|Discrete Math|MATH 2304|R. Davila|
